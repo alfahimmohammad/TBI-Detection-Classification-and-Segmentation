@@ -1,0 +1,9 @@
+pytorch -> cuda-10.1 # install whichever version suits you
+pandas
+scikit-learn
+scikit-image
+opencv-python
+nibabel
+numpy
+zip-files
+spyder-kernels
