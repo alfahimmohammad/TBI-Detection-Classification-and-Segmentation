@@ -4,3 +4,4 @@ The ICH_detection_code folder contains codes for the detection and classificatio
 
 For the codes in 3D UNet++ in Keras and ICH_3D_volumetric_segmentation_pytorch folders, the dataset can be downloaded from https://physionet.org/content/ct-ich/1.2.0/.
  
+Please install Pytorch and its related dependencies to run the codes in Pytorch.
